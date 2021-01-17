@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 This repository contains code for a recent earthquakes map, which charts tremors that have been recorded over the past 7 days. Using JavaScript, HTML, CSS, Leaflet and D3, I have plotted data from the U.S. Geological Survey website as seen on the maps below.
 
-![Mapping_Earthquakes](https://github.com/luke-c-newell/UFOs/blob/main/images/Mapping_Earthquakes.png "Mapping_Earthquakes.png")
+![Mapping_Earthquakes](https://github.com/luke-c-newell/Mapping_Earthquakes/blob/main/images/Mapping_Earthquakes.png "Mapping_Earthquakes.png")
 
 ## Functionality
 There are 3 main ways that the map can be adapted to offer a different perspective on recent geologic activity.
